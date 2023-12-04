@@ -9,17 +9,13 @@
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/lucasSCsantos/outfitfy">
 </p>
 
-<h1 align="center">
-  <img alt="Home" src="https://imgur.com/ivIB0bV.gif"/>
-</h1>
-
 # :page_with_curl: Sobre
 
 Um projeto simples para testar a API de *drag'n'drop* do HTML
 
 # 🔧 Recursos
 
-<img alt="Resources" src="https://imgur.com/jg8RdPb.gif"/>
+<img alt="Resources" src="https://imgur.com/9utjcEr"/>
 
 - Criar combinações de roupas e cores com drag'n'drop
 - Adicionar várias combinações
