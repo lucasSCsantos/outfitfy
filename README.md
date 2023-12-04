@@ -15,7 +15,7 @@ Um projeto simples para testar a API de *drag'n'drop* do HTML
 
 # 🔧 Recursos
 
-<img alt="Resources" src="https://imgur.com/9utjcEr"/>
+<img alt="Resources" src="https://i.imgur.com/9utjcEr.png"/>
 
 - Criar combinações de roupas e cores com drag'n'drop
 - Adicionar várias combinações
