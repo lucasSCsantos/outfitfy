@@ -1,9 +1,4 @@
 <h1 align="center">
-  <a href="https://wine-frontend-challenge.vercel.app/" target="_blank">
-    <img alt="Home" src="https://cuponomia-a.akamaihd.net/img/stores/original/wine-637032938949383777.png"/>
-  </a>
-  <br/>
-  <br/>
   Outfitfy
 </h1>
 
