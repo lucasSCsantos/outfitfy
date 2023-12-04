@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Outfitfy</title>
+	<script src="index.js"></script>
+	<link rel="stylesheet" href="index.css" />
+</head>
+<body>
+	<header>
+	</header>
+	<main>
+		<div id="clothes-card">
+		</div>
+		<div class="card">
+			<div class="top-area cloth-area" ondrop="dropCloth(event)" ondragover="allowDrop(event)"></div>
+			<div class="bottom-area cloth-area" ondrop="dropCloth(event)" ondragover="allowDrop(event)"></div>
+			<div class="shoe-area cloth-area" ondrop="dropCloth(event)" ondragover="allowDrop(event)"></div>
+		</div>
+		<div class="add">
+			<button onclick="addCard(event)">+</button>
+		</div>
+	</main>
+</body>
+	<script src="body.js"></script>
+</html>
