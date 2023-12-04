@@ -2,6 +2,8 @@
   Outfitfy
 </h1>
 
+<img alt="Resources" src="https://i.imgur.com/9utjcEr.png"/>
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucasSCsantos/outfitfy">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucasSCsantos/outfitfy">
@@ -14,8 +16,6 @@
 Um projeto simples para testar a API de *drag'n'drop* do HTML
 
 # 🔧 Recursos
-
-<img alt="Resources" src="https://i.imgur.com/9utjcEr.png"/>
 
 - Criar combinações de roupas e cores com drag'n'drop
 - Adicionar várias combinações
